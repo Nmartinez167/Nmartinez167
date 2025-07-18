@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nelson, an <a href=https://www.linkedin.com/in/nelson-martinez-326a5b272/>IT Professional</a>☺</h1>
+<h1>Hi, I'm Nelson, an <a href=https://www.linkedin.com/in/nelson-martinez-326a5b272/>I.T Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
