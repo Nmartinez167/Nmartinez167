@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 -  <b>Microsoft Azure</b>
 
-  - <b>[Azure: Setting up Azure (Resource Group, Virtual Network, Subnet, Virtual Machines)_(https://github.com/Nmartinez167/Microsoft-Azure )
+  - <b>[Azure: Setting up Azure (Resource Group, Virtual Network, Subnet, Virtual Machines](https://github.com/Nmartinez167/Microsoft-Azure)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Nmartinez167/osticket-prereqs)
