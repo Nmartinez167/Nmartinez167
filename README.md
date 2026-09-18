@@ -2,8 +2,10 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 - <b>Microsoft Azure</b>
-  - [Azure: Setting up Azure (Resource Group, Virtual Network, Subnet, Virtual Machines)](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+
+  - [Azure: Setting up Azure (Resource Group, Virtual Network, Subnet, Virtual Machines)](https://github.com/Nmartinez167
+/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols]_(https://github.com/Nmartinez167/azure-network-protocols)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Nmartinez167/osticket-prereqs)
