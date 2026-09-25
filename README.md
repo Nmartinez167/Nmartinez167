@@ -11,7 +11,8 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Nmartinez167/ticket-lifecycle-)
 
 - <b>Active Directory</b>
-  - [Active Directory: Preparing AD Infrastructure in Azure](https://github.com/kevinorellana01/preparing-ad-inf-azure)
+  - [Active Directory: Preparing AD Infrastructure in Azure](https:/Nmartinez167
+/github.com//preparing-ad-inf-azure)
  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Nmartinez167/active-directory-)
   - [Active Directory: Managing Accounts and Use Cases/Examples
 
