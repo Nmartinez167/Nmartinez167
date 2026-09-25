@@ -4,13 +4,16 @@
 -  <b>Microsoft Azure</b>
 
   - <b>[ Setting up Azure (Resource Group, Virtual Network, Subnet, Virtual Machines](https://github.com/Nmartinez167/Microsoft-Azure)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Nmartinez167/active-directory-)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Nmartinez167/network-security-/blob/main/README.md)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Nmartinez167/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Nmartinez167/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Nmartinez167/ticket-lifecycle-)
 
+- <b>Active Directory</b>
+  - [Active Directory: Preparing AD Infrastructure in Azure](https://github.com/kevinorellana01/preparing-ad-inf-azure)
+ - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Nmartinez167/active-directory-)
+  - [Active Directory: Managing Accounts and Use Cases/Examples
 
 
 <h2>🤳Connect with me:</h2>
