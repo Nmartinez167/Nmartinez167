@@ -12,6 +12,7 @@
 
 - <b>Active Directory</b>
   - [Active Directory: Preparing AD Infrastructure in Azure]
+
  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Nmartinez167/active-directory-)
   - [Active Directory: Managing Accounts and Use Cases/Examples
 
