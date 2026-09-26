@@ -11,8 +11,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Nmartinez167/ticket-lifecycle-)
 
 - <b>Active Directory</b>
-  - [Preparing AD Infrastructure in Azure](https://github.com/Nmartinez167
-/configure-ad)
+  - [Preparing AD Infrastructure in Azure](https://github.com/Nmartinez167/configure-ad)
   - [Managing Accounts and Use Cases/Examples](https://github.com/Nmartinez167/ad-practice)
  - [ Deploying Active Directory](https://github.com/Nmartinez167/active-directory-)
 
