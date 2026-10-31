@@ -1,7 +1,7 @@
 <h1>Hi, I'm Nelson, an <a href=https://www.linkedin.com/in/nelson-martinez-326a5b272/>I.T Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
--  <b>Microsoft Azure</b>
+  <b>Microsoft Azure</b>
 
   - <b>[ Setting up Azure (Resource Group, Virtual Network, Subnet, Virtual Machines](https://github.com/Nmartinez167/Microsoft-Azure)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Nmartinez167/network-security-/blob/main/README.md)
